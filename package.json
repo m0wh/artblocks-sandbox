@@ -1,0 +1,14 @@
+{
+  "name": "artblocks-sandbox",
+  "version": "1.0.0",
+  "description": "A boilerplate to start creating for artblocks.io",
+  "author": "m0wh <malo.dewiderspach@gmail.com>",
+  "scripts": {
+    "dev": "parcel serve src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.2"
+  }
+}
